@@ -46,7 +46,7 @@ Grab a binary from the [releases page](https://github.com/liamg/traitor/releases
 CGO_ENABLED=0 go get -u github.com/liamg/traitor/cmd/traitor
 ```
 
-For gol.12318:
+For gol.12320:
 
 ```
 CGO_ENABLED=0 go install github.com/liamg/traitor/cmd/traitor@latest
