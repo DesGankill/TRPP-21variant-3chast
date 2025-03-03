@@ -46,7 +46,7 @@ Grab a binary from the [releases page](https://github.com/liamg/traitor/releases
 CGO_ENABLED=0 go get -u github.com/liamg/traitor/cmd/traitor
 ```
 
-For gol.12322:
+For gol.12312:
 
 ```
 CGO_ENABLED=0 go install github.com/liamg/traitor/cmd/traitor@latest
@@ -58,3 +58,6 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 - 20/06/21: [Console 58](https://console.substack.com/p/console-58) - Awesome newsletter featuring tools and beta releases for developers.
 - 28/04/21: [Intigriti Bug Bytes #120](https://blog.intigriti.com/2021/04/28/bug-bytes-120-macos-pwned-homebrew-rce-the-worlds-shortest-backdoor/) - Recommended tools
 - 09/03/21: [Hacker News thread](https://news.ycombinator.com/item?id=26224719)
+первый коммит
+второй коммит 
+третий коммит
